@@ -29,5 +29,9 @@ A passionate frontend/Backend developer from Banglore. I love exploring the worl
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavankumar106&" alt="pavankumar106" /></p>
 
+💬 Let's connect:
+- 📖 LinkedIn: [Pavankumar Guttedar](https://www.linkedin.com/in/pavankumar-guttedar-1027631b2/)
+- 📷 Instagram : [i_pavan_goud](https://www.instagram.com/i_pavan_goud/)
+
 🤝 Feel free to explore my repositories and don't hesitate to reach out for any questions or collaboration opportunities. Happy coding!
 
