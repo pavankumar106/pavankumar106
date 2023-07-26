@@ -10,7 +10,9 @@ A passionate frontend/Backend developer from Banglore. I love exploring the worl
 
 🔭 Some of my interests:
 - Tech Talks
-- Anything thats a soft-tech
+- LinkedIn articles
+- Open source projects
+- 
 
 🌱 I'm currently learning:
 - JavaScript
