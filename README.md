@@ -28,8 +28,8 @@ A passionate frontend/Backend developer from Banglore. I love exploring the worl
 
 
 
-| <a href="https://github.com/pavankumar106/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pavankumar106&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Pavan's github stats" /></a> | <a href="https://github.com/pavankumar106/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumar106&theme=github_dark&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/pavankumar106/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pavankumar106&theme=tokyonight&hide=contribs,issues&show_icons=true&hide_border=true&background=false" alt="Pavan's github stats" /></a> | <a href="https://github.com/pavankumar106/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumar106&theme=tokyonight&layout=compact&hide_border=true" /></a> |  [![GitHub Streak](https://streak-stats.demolab.com/?user=pavankumar106&theme=tokyonight&hide&hide=contribs,issues&show_icons=true&hide_border=true)](https://git.io/streak-stats) |
+| ------------- | ------------- |------------- |
 
 💬 Let's connect:
 - 📖 LinkedIn: [Pavankumar Guttedar](https://www.linkedin.com/in/pavankumar-guttedar-1027631b2/)
