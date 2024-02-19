@@ -11,9 +11,7 @@ A passionate frontend developer from Banglore. I love exploring the world of tec
 🔭 Some of my interests:
 - Tech Talks
 - LinkedIn articles
-- Open source projects
-- I'll add something here
-- Same as above line
+- Open to freelance work
 
 🌱 I'm currently learning:
 - JavaScript
